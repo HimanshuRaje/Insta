@@ -4,6 +4,15 @@
 
 A React Native app built with Expo that gamifies productivity using spin wheels, focus timers, and a points system to fight procrastination and build discipline.
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/tracking.jpg" width="350" alt="Tracking Dashboard" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/spin_history.jpg" width="350" alt="Spin History" />
+</p>
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
