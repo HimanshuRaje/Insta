@@ -7,7 +7,8 @@ A React Native app built with Expo that gamifies productivity using spin wheels,
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/tracking.jpg" width="350" alt="Tracking Dashboard" />
+  <img src="assets/screenshots/landing.jpg" width="350" alt="Landing" />
+  <img src="assets/screenshots/spinWheel.jpeg" width="350" alt="Spin wheel" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/spin_history.jpg" width="350" alt="Spin History" />
 </p>
